@@ -1,0 +1,2 @@
+python_version>=3.3.6
+Kivy>=1.9.1
